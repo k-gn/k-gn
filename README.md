@@ -26,6 +26,8 @@ I want to be a person who gives you new wisdom. ✨
 <h3 align="center">•••</h3>
 
 </p>
-
+![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true)
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 
