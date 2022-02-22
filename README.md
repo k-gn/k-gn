@@ -13,7 +13,7 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=appveyor"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Spring_Security-green?style=flat-square&logo=appveyore"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring_Security-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring_JPA-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring_Mybatis-green?style=flat-square&logo=appveyor"/>&nbsp
   <br>
