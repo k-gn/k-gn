@@ -27,7 +27,7 @@ I want to be a person who gives you new wisdom. ✨
 </p>
 <div align="center">
 
-![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true)
+![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true&theme=onedark)
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
