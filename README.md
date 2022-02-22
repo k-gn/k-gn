@@ -31,7 +31,7 @@ I want to be a person who gives you new wisdom. ✨
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-gn&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-gn&theme=monokai)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 </div>
