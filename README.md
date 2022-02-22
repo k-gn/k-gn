@@ -12,19 +12,14 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=appveyor"/>&nbsp
-  
   <br>
-  
   <img src="https://img.shields.io/badge/-SpringBoot-Security-green?style=flat-square&logo=appveyore"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-JPA-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-Mybatis-green?style=flat-square&logo=appveyor"/>&nbsp
-  
   <br>
-  
   <img src="https://img.shields.io/badge/-MySQL-navy?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-lightgrey?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-ORACLE-red?style=flat-square&logo=appveyor"/>&nbsp
-  
   <br>
   <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=appveyor"/>&nbsp
