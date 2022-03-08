@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=#300C5F&height=400&section=header&text=Gyunam%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=020a0d&height=170&section=header&text=GyunamKim;&fontColor=FFA07A&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -30,10 +30,11 @@ I want to be a person who gives you new wisdom. ✨
 </p>
 <div align="center">
 
-![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true&theme=onedark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-gn&theme=dark)](https://git.io/streak-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2k-gn%2Fhit-counter)](https://hits.seeyoufarm.com)
   
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=020a0d&height=100&section=footer)
 </div>
