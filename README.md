@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#300C5F&height=600&section=header&text=Gyunam%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#300C5F&height=400&section=header&text=Gyunam%20Kim&fontSize=90)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -36,6 +36,8 @@ I want to be a person who gives you new wisdom. ✨
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=020a0d&height=100&section=footer)
 </div>
 
