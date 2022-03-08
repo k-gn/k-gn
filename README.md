@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=020a0d&height=170&section=header&text=GyunamKim;&fontColor=FFA07A&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gyunam%20Kim&fontSize=90)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
