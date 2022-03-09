@@ -31,8 +31,8 @@ I want to be a person who gives you new wisdom. ✨
 <div align="center">
 
 ![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true&theme=onedark) 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-gn&theme=dark)](https://git.io/streak-stats)
   
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=020a0d&height=100&section=footer)
 </div>
