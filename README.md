@@ -11,7 +11,6 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=appveyor"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Spring_Security-green?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring_JPA-green?style=flat-square&logo=appveyor"/>&nbsp
@@ -23,6 +22,8 @@ I want to be a person who gives you new wisdom. ✨
   <br>
   <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=appveyor"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=appveyor"/>&nbsp
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=appveyor"/>&nbsp
+  <img src="https://img.shields.io/badge/-Jenkins-gray?style=flat-square&logo=appveyor"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
