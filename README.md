@@ -1,34 +1,31 @@
-<h3 align="center"> 👋 Hi there 👋 </h3>
-<p align="center">
-I'm Gyunam Kim, a growing developer. 🌱 <br>
-I want to be a person who gives you new wisdom. ✨
-</p>
-<h3 align="center">📚 Technology Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat-square&logo=appveyor"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/-MySQL-navy?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-MariaDB-lightgrey?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-ORACLE-red?style=flat-square&logo=appveyor"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=appveyor"/>&nbsp
-  <img src="https://img.shields.io/badge/-Jenkins-gray?style=flat-square&logo=appveyor"/>&nbsp
-</p>
+<h2> Hello, I'm backend developer gyunam Kim. 👋 </h2>
 
-<h3 align="center">•••</h3>
 
-</p>
-<div align="center">
+<h3>1. I love the code.</h3>
 
-![Gyul's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gn&show_icons=true&count_private=true&theme=onedark) 
+- I'm excited every moment I write the code.
+- I try to be closer to the code.
+
+<h3>2. Collaboration is important to me.</h3>
+
+- I enjoy the process of improving the quality of code and filling gaps through collaboration.
+- I aim for the growth of the company and the team, not personal growth.
+
+<h3>3. I am oriented toward refactoring and clean code.</h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-gn&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+- I try to write code that others can read.
+- I try not to write unnecessary code.
+- I try to reduce potential bugs.
+  
+<h3>4. Design is important to me.</h3>
 
-</div>
+- I'm thinking about a design that is easy to expand and change, and is reusable.
+- I think of a clear interest, a high degree of cohesion and a low degree of cohesion.
+- I think good design leads to a good user experience soon.
 
+<h3>5. I always think about business.</h3>
+
+- Develop and improve not just by developing, but by considering the essential business.
+- I think we should pay attention to business beyond the narrow perspective of thinking only about applications because each person has different values.
   
 
