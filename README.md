@@ -13,7 +13,7 @@
 
 <h3>3. I am oriented toward refactoring and clean code.</h3>
   
-- I try to write code that others can read.
+- I try to write code that other people can read while collaborating.
 - I try not to write unnecessary code.
 - I try to reduce potential bugs.
   
