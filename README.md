@@ -11,7 +11,7 @@
 - I enjoy the process of improving the quality of code and filling gaps through collaboration.
 - I aim for the growth of the company and the team, not personal growth.
 
-<h3>3. I am oriented toward refactoring and clean code.</h3>
+<h3>3. I aim for refactoring and clean code.</h3>
   
 - I try to write code that other people can read while collaborating.
 - I try not to write unnecessary code.
